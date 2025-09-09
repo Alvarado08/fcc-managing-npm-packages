@@ -1,7 +1,19 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Jorge Alvarado",
+  "description": "An awesome project to help you learn how to use package.json",
+  "keywords": [
+    "freecodecamp",
+    "learn",
+    "node",
+    "express",
+    "eleventy",
+    "npm"
+  ],
+  "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
+    "freecodecamp/example": "1.2.13",
     "express": "^4.14.0"
   },
   "main": "server.js",
